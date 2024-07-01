@@ -10,7 +10,6 @@
 
 - 🤔 Desbravando Java.
 - 🎓 Estudando Análise e desenvolvimento de Sistemas.
-- 💼 Trabalhando como vendedora externa.
 - 🌱 Aprendendo mais sobre Banco de Dados.
 
 

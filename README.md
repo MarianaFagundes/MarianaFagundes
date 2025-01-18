@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" min-width="400px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
  👋 Hello! My name is  Mariana Fagundes <strong>Backend development Java</strong>.<br>

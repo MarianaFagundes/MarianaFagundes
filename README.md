@@ -22,10 +22,10 @@
 
 ## 🧠 Projetos em destaque
 
-### 📌 [API de Gerenciamento de Clínicas (Java + Spring Boot)](link-do-repo)
+### 📌 [API de Gerenciamento de Clínicas (Java + Spring Boot)](https://github.com/MarianaFagundes/Api_Gerenciamento_de_Clinicas)
 CRUD completo com autenticação, MySQL e boas práticas com Bean Validation e Flyway.
 
-### 📌 [Agenda de Contatos (Python + terminal)](link-do-repo)
+### 📌 [Agenda de Contatos (Python + terminal)](https://github.com/MarianaFagundes/Projeto_Agenda)
 App de terminal para adicionar, editar, deletar e favoritar contatos. Prática com listas e dicionários.
 
 ### 📌 Em breve: TaskFlow API (Python + FastAPI + JWT)

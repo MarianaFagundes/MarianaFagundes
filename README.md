@@ -1,7 +1,8 @@
 <img src="https://i.pinimg.com/736x/22/da/1b/22da1bf4420eec717135b0772eba230a.jpg" min-width="400px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
-# 👋 Olá! Eu sou a Mariana Fagundes
+  
+## 👋 Ola! Eu sou a Mariana Fagundes 
 
 🎯 Estudante de Sistemas de Informação | Foco em Backend com **Java e Python**  
 📍 Lages/SC | Disponível para trabalho remoto  

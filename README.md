@@ -44,7 +44,7 @@ API REST de tarefas com autenticação JWT, SQLite e testes automatizados.
 
 ## 🎧 Trilha sonora do meu código
 
-[![Ouça](https://img.youtube.com/vi/b0CsJeoL--M/0.jpg)](https://www.youtube.com/watch?v=b0CsJeoL--M)
+<p align="center"> <a href="https://www.youtube.com/watch?v=k-HdGnzYdFQ" target="_blank"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ5aHV3c3U5MnE5anlxdHg2eHRidDdpbnA0dnZienI1Ym4zcXg1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cncKpJQi4FGL3HiguO/giphy.gif" alt="Clique para ouvir a música" width="500"/> </a> </p> <p align="center"> <strong><a href="https://www.youtube.com/watch?v=k-HdGnzYdFQ" target="_blank">▶ Clique aqui e sinta a vibe dessa música</a> 🎶</strong> </p>
 
 > 🎶
 

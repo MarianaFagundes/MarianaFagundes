@@ -5,7 +5,7 @@
 ## 👋 Ola! Eu sou a Mariana Fagundes 
 
 🎯 Estudante de Sistemas de Informação | Foco em Backend com **Java e Python**  
-📍 Grande Florianópolis - SC | Disponível para trabalho remoto  
+📍 Grande Florianópolis - SC 
 🚀 Em busca de **vaga de estágio ou júnior backend** 
 
 ---
